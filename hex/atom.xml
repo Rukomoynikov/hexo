@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Little bit about Edutera]]></title>
+  <subtitle><![CDATA[Notes from past]]></subtitle>
+  <link href="/hexo//hex/atom.xml" rel="self"/>
+  <link href="http://rukomoynikov.github.io/hexo/"/>
+  <updated>2015-01-07T13:00:39.009Z</updated>
+  <id>http://rukomoynikov.github.io/hexo/</id>
+  
+  <author>
+    <name><![CDATA[Команда проекта Edutera]]></name>
+    <email><![CDATA[cat@mos-it.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Questions]]></title>
+    <link href="http://rukomoynikov.github.io/hexo/2015/01/06/Questions/"/>
+    <id>http://rukomoynikov.github.io/hexo/2015/01/06/Questions/</id>
+    <published>2015-01-06T16:18:00.000Z</published>
+    <updated>2015-01-06T16:54:42.000Z</updated>
+    <content type="html"><![CDATA[<ul>
+<li>Что необходимо для проведения курса и взымания денег со студентов, оплаты преподавателю? Лицензии?</li>
+<li>Почему компании это надо? Как она заработает или сэкономит деньги ?</li>
+<li>Кто стейкхолдеры?</li>
+<li>Как звучит point of view ?</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<ul>
+<li>Что необходимо для проведения курса и взымания денег со студентов, оплаты преподавателю? Лицензии?</li>
+<li>Почему компании это над]]>
+    </summary>
+    
+      <category term="Corporate blended learning" scheme="http://rukomoynikov.github.io/hexo/categories/Corporate-blended-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Платные курсы на базе blended learning]]></title>
+    <link href="http://rukomoynikov.github.io/hexo/2015/01/06/Public-blended-learning/"/>
+    <id>http://rukomoynikov.github.io/hexo/2015/01/06/Public-blended-learning/</id>
+    <published>2015-01-06T15:27:11.000Z</published>
+    <updated>2015-01-07T07:13:49.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="/hexo/images/plan_to_start.png" alt="alt text" title="Logo Title Text 1"></p>
+<p>Проект Edutera - способ заинтересовать и дать наиболее эффективное обучение по доступной цене. Так мы не только изменим облик страны, но и откроем в людях новые стороны (дадим смысл жизни).</p>
+<p>Основное направление – смешанное обучение, онлайн-курсы от лучших университетов под присмотром профессиональных кураторов, лидеров в данной области.</p>
+<p><strong>Фишки:</strong></p>
+<ol>
+<li>Причастность с большому количеству людей, к толпе. Это важное преимущество онлайн-курсов.</li>
+<li>Новые люди, знакомства, связи.</li>
+<li>Постоянная поддержка в оффлайн.</li>
+<li>Материалы на русском языке (переведены и озвучены если это видео), доступны всем.</li>
+<li>Обязательные домашние задания и их разбор.</li>
+<li>Возможность обратиться за помощью во время сессии.</li>
+<li>Финальные экзамены, сложные, платные. Но подтверждающие знания. (Надо как-то придумать чтобы экзамены не сдавались простой зубрёжкой.)</li>
+<li>Первая встреча вводная: знакомство с преподавателем, общей темой курса. Далее кто хочет тот остаётся и платит за весь курс.</li>
+<li>Площадка, место обучения релевантно теме курса.</li>
+<li>Клуб выпускников, внутренний форум доступный только закончившим.</li>
+<li>Ежемесячные встречи выпускников с рассказами о достижениях.</li>
+<li>Отмерять в курсе результаты (и промежуточные экзамены) теперь ты мастер по динозаврам первого уровня.</li>
+<li>Домашние задания не только на знания, но и на умения.</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="/hexo/images/plan_to_start.png" alt="alt text" title="Logo Title Text 1"></p>
+<p>Проект Edutera - способ заинтересовать и дать ]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Corporate education]]></title>
+    <link href="http://rukomoynikov.github.io/hexo/2015/01/06/Cortporate-education/"/>
+    <id>http://rukomoynikov.github.io/hexo/2015/01/06/Cortporate-education/</id>
+    <published>2015-01-06T15:26:20.000Z</published>
+    <updated>2015-01-07T06:42:03.000Z</updated>
+    <content type="html"><![CDATA[<p>Второе возможное направление – студия и в целом экосистема для записи и подготовки онлайн-курсов. Это могут быть как общие, так и корпоративные курсы.</p>
+<ol>
+<li>Мы помогаем компании найти в каких курсах нуждаются сотрудники и что это даст. Записываем эти самые курсы и проводим их, применяя наши наработанные знания.</li>
+<li>Помогаем людям выпустить бесплатные или платные онлайн-курсы (зачем им это?).</li>
+<li>Передача опыта друг другу. Например, Максим Рукомоников захочет в Фортексте рассказать о том как делаются сайты.</li>
+<li>Сотрудники сами могут выбрать путём голосования тему следующего курса.</li>
+<li>Говорят хороший бизнес - когда вы делаете что-то дешевле, доступне. Пример, Форд сделал машины доступными среднему классу, он не изобретал машины.</li>
+</ol>
+<p><strong>План:</strong></p>
+<ol>
+<li>Найти компанию в которой есть необходимость в обучении сотрудников. Как они решали эту проблему раньше? Утвердить одного человека на той стороне, который отвечает за проведение курса. </li>
+<li>Найти куратора на эту тему, внутри компании и обязательно во вне. Ведь важно совместить несколько специалистов, это первое за что мы берём деньги подбор правильного куратора. Или как и планировали, иногда мы будем записывать курсы бесплатно, когда найдётся серьёзный куратор который готов отдать всё в open source.</li>
+<li>Проработать программу и согласовать с человеком на той стороне который отвечает за проведение этой программы.</li>
+<li>Записать видео-материалы и приготовить домашние задания. К тому моменту должна быть готова стандартная памятка которую мы будем давать в каждой компании каждому участнику курса. Которая описывает правила, где найти материалы, к кому обратиться за помощью.</li>
+<li>Провести вводный урок, рассказать о курсе. О целях курса. Договориться о расписании. <strong>Хорошее обучение начинается с хорошей мотивации. А обычно люди на работе в состоянии “<em>ну зачем мне это ешё, я и так тут как лошадь?</em>“</strong></li>
+<li>В будний день помогаем сделать домашнее задание, в выходные даём новый материал который был представлен онлайн в течение недели и даём новое задание.</li>
+<li>Курс разбит на рубрики и по истечении каждой рубрики проводятся проверочные работы. Необходимые чтобы понять, у кого получается, у кого нет, надо ускориться или наоборот повторить пройденное. Но, как правило такое не требутся, т.к. курсы в основном на навыки, но не на заучку.</li>
+<li>Возможно, в завершении курса провести финальную проверочную работу. И трём лучшим дать повышение по работе (но оценка должна быть обьективная и обезличенная) ?</li>
+</ol>
+<p><strong>Сколько денег и какие ресурсы необходимы для реализации плана:</strong></p>
+<ol>
+<li>Сделать портал.</li>
+<li>Оборудование для аудио\видео записи, компьютер для монтажа и оператор.</li>
+<li>Бухгалтер.</li>
+<li>Помощник куратора курса (человек с нашей стороны, который кочует между курсами и представляет администрацию, отвечает на вопросы и.т.д.).</li>
+<li>Место для записи курса. Наверное 20-30 м2.</li>
+<li>Ком</li>
+</ol>
+<p><strong>Вопросы:</strong></p>
+<ol>
+<li>Blended learning обычно проводят для группы, а что если в компании один новый человек в месяц? Как его вводить в курс дела?</li>
+<li></li>
+</ol>
+<p><strong>Вопросы который надо задавать разным компаниям для понимания сути проблемы:</strong></p>
+<ol>
+<li>Как в вашей компании происходит ввод новичка “в курс”. Как передаются знания о специфике продуктов, особенностях сервиса?</li>
+<li>Как в вашей компании происходит аттестация, подтверждение умений и знаний?</li>
+<li>Занимаются ли в вашей компании профессиональным развитием сотрудников? А развитием знаний, умений не связанных с главной профессиональной деятельностью?</li>
+<li>У каждого сотрудника есть чем поделиться, например Марина Петровна главный бухгалтер может научить «вышиванию крестиком», а водитель Пётр Леонидович умеет делать ремонт. Случалось ли в вашей компании, что кто-то устраивал такой мини-учебный курс?</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Второе возможное направление – студия и в целом экосистема для записи и подготовки онлайн-курсов. Это могут быть как общие, так и корпора]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Просто полезные ссылки]]></title>
+    <link href="http://rukomoynikov.github.io/hexo/2015/01/06/justlinks/"/>
+    <id>http://rukomoynikov.github.io/hexo/2015/01/06/justlinks/</id>
+    <published>2015-01-06T14:59:05.000Z</published>
+    <updated>2015-01-06T16:57:15.000Z</updated>
+    <content type="html"><![CDATA[<p>Онлайн курсы по теме:</p>
+<ol>
+<li><a href="https://www.coursera.org/course/learning" target="_blank" rel="external">Learning how to learn</a></li>
+<li><a href="https://www.coursera.org/course/edc" target="_blank" rel="external">E-Learning and digital cultures</a></li>
+<li><a href="https://www.coursera.org/course/teach1" target="_blank" rel="external">Foundation of teaching for learning</a></li>
+<li><a href="https://www.coursera.org/course/elearning" target="_blank" rel="external">E-Learning ecologies</a></li>
+<li><a href="https://www.coursera.org/course/k12blendedlearning" target="_blank" rel="external">K-12 Blended learning &amp; online education</a></li>
+</ol>
+<p>MOOC площадки</p>
+<p>Бесплатные </p>
+<ol>
+<li><a href="htp://edx.org" target="_blank" rel="external">EDx</a></li>
+<li><a href="ttps://www.coursera.org/" target="_blank" rel="external">Coursera</a></li>
+<li><a href="https://www.udacity.com/" target="_blank" rel="external">Udacity</a></li>
+<li><a href="https://novoed.com/" target="_blank" rel="external">Novoed</a></li>
+<li><a href="http://www.skilledup.com/" target="_blank" rel="external">SkilledUp</a></li>
+<li><a href="http://universarium.org/" target="_blank" rel="external">Универсариум</a></li>
+<li><a href="https://stepic.org/" target="_blank" rel="external">Stepic</a></li>
+<li><a href="http://prometheus.org.ua/" target="_blank" rel="external">Prometheus</a></li>
+</ol>
+<p>Платные</p>
+<ol>
+<li><a href="http://lendwings.com/" target="_blank" rel="external">Lendwings</a></li>
+<li><a href="http://udemy.com/" target="_blank" rel="external">Udemy</a></li>
+<li><a href="http://udemy.com/" target="_blank" rel="external">Lendwings</a></li>
+<li><a href="http://netology.ru/" target="_blank" rel="external">Netology</a></li>
+<li><a href="https://www.eduson.tv/" target="_blank" rel="external">Eduson.tv</a></li>
+</ol>
+<p>Существующие корпративные университеты</p>
+<ol>
+<li>В Zeptolab <a href="http://habrahabr.ru/company/ZeptoLab/blog/246407/" target="_blank" rel="external">http://habrahabr.ru/company/ZeptoLab/blog/246407/</a></li>
+<li>Хаб про учебный процесс <a href="http://habrahabr.ru/hub/study/" target="_blank" rel="external">http://habrahabr.ru/hub/study/</a></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Онлайн курсы по теме:</p>
+<ol>
+<li><a href="https://www.coursera.org/course/learning" target="_blank" rel="external">Learning how to lear]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
